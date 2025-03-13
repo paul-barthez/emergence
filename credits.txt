@@ -1,0 +1,9 @@
+The game "Discovery" was created by Fabrizio Nastri with help of Pierre Cattelain and illustrations by Benoît Clarys.
+
+This implementation of the game also borrowed from the "What Could Go Wrong?" digital card game developed by Nikolas Martelaro (G:nikmart) and Wendy Ju.
+
+The main contributor to "emergence" is:
+
+N: Matthijs den Besten
+G: mdbesten
+D: originator
