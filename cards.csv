@@ -1,3 +1,4 @@
+
 "discovery","period.id","period.label","description","dependson","family"
 "SHARE & DECUS",1,"Early Open Sharing","Early software-sharing communities","","Organizational"
 "UNIVAC A-2 System",1,"Early Open Sharing","First open-source software","","Technological"
@@ -50,3 +51,23 @@ system patches,2,Commercialization,"Updates or fixes applied to software to corr
 modding,3,Free Software Movement,"The practice of modifying software or hardware to add features or customize functionality, prevalent among early computing enthusiasts.",,Cultural
 netscape public licence,4,Rise of Open Source,"An open-source license under which Netscape released its Communicator browser's source code in 1998, leading to the development of the Mozilla project. ​",,Licensing
 forking,5,Mainstream Adoption,"Creating a new software project by copying an existing one's source code and developing it independently, allowing for innovation without altering the original project.",,Infrastructure
+"Software","Date","Period","Description","Dependency","Category"
+"UNIVAC","1951","1950-1960","First commercial computer in the United States, introduced in 1951.","Based on early computing theory, electronics research, and government-funded projects during WWII.","Hardware"
+"Operating Systems","1950s","1950-1960","Software that manages hardware resources and provides services to computer programs.","Built upon UNIVAC and hardware abstraction techniques.","Operating System"
+"Programming Language Compilers","1950s","1950-1960","Tools that translate source code written in programming languages into executable machine code.","Dependency on early operating systems and hardware abstraction layers.","Programming Language"
+"Unix","1970s","1970-1980","A multitasking, multi-user operating system developed in the 1970s, influencing many later systems.","Influenced by early operating systems and hardware advancements.","Operating System"
+"SHARE Users Group","1955","1950-1960","User group founded in 1955 to share software and technical information among IBM computer users.","Organized around IBM hardware and early software sharing culture.","Community"
+"GNU Operating System","1983","1980-1990","Free operating system initiated by Richard Stallman as part of the GNU Project.","Heavily influenced by Unix and the rise of the free software movement.","Operating System"
+"Debian GNU","1993","1990-2000","A Linux distribution created in 1993, known for its commitment to free software principles.","Dependency on GNU Operating System and Linux Kernel.","Linux Distribution"
+"MySQL Database Engine","1995","1990-2000","An open-source relational database management system popular for web applications.","Built upon the LAMP stack and relational database concepts.","Database"
+"Compilers","1950s","1950-1960","Programs that translate source code into machine code, essential for software development.","Dependency on early programming languages and hardware abstraction.","Programming Tool"
+"Interpreters","1960s","1960-1970","Programs that execute source code line by line, without prior compilation.","Built upon early programming languages and interactive computing needs.","Programming Tool"
+"Python","1991","1990-2000","A versatile and easy-to-learn interpreted programming language created in 1991.","Influenced by C, ABC language, Unix environment, and the need for easy scripting.","Programming Language"
+"Ruby","1995","1990-2000","A dynamic, object-oriented programming language known for its simplicity and productivity.","Influenced by Perl, Python, and Smalltalk.","Programming Language"
+"Java","1995","1990-2000","A versatile object-oriented programming language introduced in 1995, widely used for enterprise applications.","Influenced by C++, object-oriented paradigms, and early web technologies.","Programming Language"
+"ActionScript","1998","1990-2000","A programming language used for developing interactive web applications and animations.","Built upon JavaScript and early web technologies.","Programming Language"
+"C#","2000","2000-2010","A programming language developed by Microsoft for creating applications on the .NET platform.","Influenced by Java and Microsoft's platform needs.","Programming Language"
+"Fedora","2003","2000-2010","A community-driven Linux distribution developed by the Fedora Project, sponsored by Red Hat.","Built upon the Linux Kernel and the Red Hat ecosystem.","Linux Distribution"
+"Ubuntu","2004","2000-2010","A Linux distribution based on Debian, popular for its user-friendliness and community support.","Built upon Debian and the Linux Kernel.","Linux Distribution"
+"Git","2005","2000-2010","A distributed version control system designed for fast and efficient project management.","Influenced by the need for better code collaboration tools and Linux Kernel development.","Version Control"
+"Chromebooks","2011","2010-2020","Laptops running Chrome OS, a Linux-based operating system centered around the web browser.","Built upon the Linux Kernel, cloud computing, and web technologies.","Hardware"
