@@ -18,3 +18,7 @@ D: contributor
 N: Thomas SANTANA
 G: santanathomas
 D: contributor
+
+N: Paul Barthez
+G: paul-barthez
+D: contributor
