@@ -11,4 +11,10 @@
 "MySQL Database Engine","1990s","1990-2000","An open-source relational database management system popular for web applications.","Dependent on the Debian GNU system and web development frameworks."
 "Compilers","1960s","1960-1970","Programs that translate source code into machine code, essential for software development.","Dependent on Programming Language Compilers for different languages."
 "Interpreters","1960s","1960-1970","Programs that directly execute source code line by line, without prior compilation.","Dependent on Programming Language Compilers and evolving software development techniques."
-"Python","1991","1990-2000","A versatile and easy"
+"Python","1991","1990-2000","A versatile and easy-to-learn interpreted programming language created in 1991.","Dependent on Interpreters and advances in modern programming paradigms."
+"Ruby","1990s","1990-2000","A dynamic and object-oriented programming language known for simplicity and productivity.","Dependent on Interpreters and object-oriented programming principles."
+"Scala","2000s","2000-2010","A programming language designed to reconcile object-oriented and functional programming paradigms.","Dependent on Java and functional programming developments."
+"Java","1995","1990-2000","A versatile object-oriented programming language introduced in 1995, widely used for enterprise applications.","Dependent on Programming Language Compilers and object-oriented design principles."
+"ActionScript","1990s","1990-2000","A programming language used for developing interactive web applications and animations.","Dependent on web development environments and multimedia applications."
+"C#","2000s","2000-2010","A programming language developed by Microsoft
+
